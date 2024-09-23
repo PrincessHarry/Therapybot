@@ -98,6 +98,7 @@ st.markdown(
         color: white;
         min-width:0;
     }
+    
     .bot-message {
         background-color: #f0f0f5;
         text-align: left;
